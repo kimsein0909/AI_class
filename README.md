@@ -4,7 +4,7 @@
    * 나의 홈페이지 주소 : https://kimsein0909.github.io/AI_class/____
 
 ### 시각화 프로젝트
-   * titanic 데이터 분석해 보기 -연결- [LINK](https://ldjwj.github.io/myDataAnalysis/01_titanic_EDA.html)
+   * titanic 데이터 분석해 보기 -연결- [LINK](https://jose-1122.github.io/AI_Start/FirstStep_DataVis01.html)
 
 ### 캐글 데이터 분석 대회 참여기.
    * 데이터 대회 링크 : 
